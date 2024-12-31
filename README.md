@@ -23,7 +23,7 @@ The **Pizza Lab Ordering System** is a console-based application developed in C+
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/pizza-lab-ordering-system.git
+git clone https://github.com/SamraMohsin/pizza-lab-ordering-system.git
 Welcome to Pizza Lab Ordering System!
 
 1. Place an Order
